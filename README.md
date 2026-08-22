@@ -48,161 +48,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[ChargeLab](https://chargelab.co/)**  
-
-  EV charging software platform providing charging station management, network operations, remote monitoring, payments, and OCPP-based charger integrations.
-
-
-
-- **[AMPECO](https://www.ampeco.com/)**  
-
-  White-label EV charging management platform for operating public, workplace, fleet, and residential charging networks.
-
-
-
-- **[Driivz](https://driivz.com/)**  
-
-  EV charging software platform supporting charging network management, billing, energy management, roaming, smart charging, and fleet operations.
-
-
-
-- **[EV Connect](https://www.evconnect.com/)**  
-
-  EV charging network management platform providing station operations, driver services, payments, monitoring, and energy-management capabilities.
-
-
-
-- **[Monta](https://monta.com/)**  
-
-  Integrated EV charging platform covering charge point management, payments, roaming, charging operations, and energy-management workflows.
-
-
-
-- **[ChargePoint](https://www.chargepoint.com/)**  
-
-  Large-scale EV charging ecosystem providing charging network management, hardware, driver services, fleet charging, and energy-management capabilities.
-
-
-
-- **[Virta](https://www.virta.global/)**  
-
-  EV charging platform supporting charging-network operations, payments, roaming, smart charging, energy management, and white-label services.
-
-
-
-- **[GreenFlux](https://www.greenflux.com/)**  
-
-  EV charging management platform providing charge point operations, smart charging, roaming, billing, and energy optimization.
-
-
-
-- **[Shell Recharge Solutions](https://www.shell.com/mobility/electric-vehicle-charging.html)**  
-
-  EV charging management and infrastructure platform supporting public, workplace, fleet, and home charging ecosystems.
-
-
-
-- **[ChargeHub](https://chargehub.com/)**  
-
-  EV charging platform and driver network providing charging-station discovery, network connectivity, payments, and charging management capabilities.
-
-
-
-- **[EVBox Everon](https://www.evbox.com/)**  
-
-  EV charging management software and services for operating charging stations and networks.
-
-
-
-- **[Blink Charging](https://blinkcharging.com/)**  
-
-  EV charging hardware and network-management platform supporting station operations, payments, monitoring, and charging services.
-
-
-
-- **[Wallbox](https://www.wallbox.com/)**  
-
-  EV charging ecosystem providing connected chargers, charging management, energy management, and fleet solutions.
-
-
-
-- **[Flo](https://www.flo.com/)**  
-
-  EV charging network and software platform supporting charging station management, monitoring, driver services, and fleet charging.
-
-
-
-- **[SWTCH Energy](https://swtchenergy.com/)**  
-
-  EV charging management platform focused on multi-unit residential, workplace, fleet, and commercial charging.
-
-
-
-- **[Electrify America](https://www.electrifyamerica.com/)**  
-
-  Large-scale EV charging network with software supporting charger operations, driver access, payments, and network management.
-
-
-
-- **[Noodoe EV](https://www.noodoe.com/)**  
-
-  EV charging management platform for commercial charging networks, including station monitoring, billing, access management, and operations.
-
-
-
-- **[Monta Charge Point Management](https://monta.com/)**  
-
-  Cloud platform for managing chargers, charging sites, users, tariffs, transactions, and energy workflows.
-
-
-
-- **[EV Energy](https://www.evenergy.io/)**  
-
-  EV charging software and energy-management solutions supporting connected charging infrastructure.
-
-
-
-- **[AmpUp](https://www.ampup.io/)**  
-
-  EV charging network software supporting charging management, fleet operations, payments, and charger monitoring.
-
-
-
-- **[ChargeLab Fleet](https://chargelab.co/)**  
-
-  Charging management capabilities for commercial and fleet deployments, including remote operations and charger optimization.
-
-
-
-- **[Fimer / EV charging software ecosystems](https://www.fimer.com/)**  
-
-  Connected EV charging infrastructure and management capabilities for commercial and energy applications.
-
-
-
-- **[Kempower ChargEye](https://kempower.com/)**  
-
-  Cloud-based charging management and monitoring platform for Kempower DC charging infrastructure.
-
-
-
-- **[Alpitronic Hypercharger ecosystem](https://www.alpitronic.it/)**  
-
-  High-power EV charging infrastructure supported by software and operational tooling for charger management and monitoring.
-
-
-
-- **[Siemens eMobility](https://www.siemens.com/)**  
-
-  EV charging infrastructure and digital-management ecosystem for commercial, fleet, workplace, and public charging.
-
-
-
-- **[ABB E-mobility](https://www.abb.com/)**  
-
-  EV charging infrastructure and digital software ecosystem supporting charger management, monitoring, fleet charging, and energy integration.
+| Platform / Product | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[ChargeLab](https://chargelab.co/)** | Cloud platform providing charging station management, network operations, remote monitoring, payments, and OCPP integrations. | Level 2 AC: $25/port/month; DCFC Level 3: $50/port/month (10% off for 3-yr, 20% off for 5-yr commitment). Fleet plans start at $25/port/month. | Free forever plan for residential EV drivers via ChargeLab Rewards ($0 monthly fee, earns $0.10/kWh rewards); Commercial platform provides a free live guided product demo upon request. |
+| **[AMPECO](https://www.ampeco.com/)** | White-label EV charging management platform for operating public, workplace, fleet, and residential charging networks. | Starts at ~$10–$15/charger/month (tiered CPO platform pricing based on connector volume, plus one-time onboarding setup). | No self-service free tier; provides a free 1-on-1 live platform demo and custom proof-of-concept consultation upon request. |
+| **[Driivz](https://driivz.com/)** | Enterprise EV charging software platform supporting charging network management, billing, energy management, roaming, and smart charging. | Starts at ~$50–$67/port/month ($600–$800/port/year entry enterprise tier for network management). | No free forever plan; offers a free live interactive product demo and custom sandbox pilot upon request for utilities and large CPOs. |
+| **[EV Connect](https://www.evconnect.com/)** | EV charging network management platform providing station operations, driver services, payments, monitoring, and energy management. | Starts at $120–$240/port/year (approx. $10–$20/port/month; bundled Software+ subscriptions available; also available via CaaS monthly plans). | 1-year free software subscription included with select certified hardware purchases (e.g., Schneider Charge Pro); free live demo on request. |
+| **[Monta](https://monta.com/)** | Integrated EV charging platform covering charge point management, payments, roaming, charging operations, and energy workflows. | Private/Home: €0/month; Commercial Pro plan starts at ~$4.95–$6.00/charge point/month (plus 10% transaction fee on pay-per-charge billing). | Free forever plan for up to 3 charge points across multiple locations via the Monta Charge app (includes basic smart charging and private access control). |
+| **[ChargePoint](https://www.chargepoint.com/)** | Large-scale EV charging ecosystem providing charging network management, hardware, driver services, fleet charging, and energy management. | Starts at $240–$300/port/year (approx. $20–$25/port/month prepaid on 1–5 year terms); Essential Cloud Plan for CPF50 starts at $0 upfront software fee (funded via driver session fees). | Free forever driver mobile app & basic residential home charging management; free 30-day cloud trial/demo sandbox for commercial site hosts on request. |
+| **[Virta](https://www.virta.global/)** | EV charging platform supporting charging-network operations, payments, roaming, smart charging, energy management, and white-label services. | Starts at ~€10–€20/charging point/month (entry CPO management package depending on connector volume and add-on modules). | Free forever driver app for public charging access and roaming; commercial CPO platform provides a free live product demo and guided technical walkthrough on request. |
+| **[GreenFlux](https://www.greenflux.com/)** | EV charging management platform providing charge point operations, smart charging, roaming, billing, and energy optimization. | Starts at ~$5–$20/charge point/month (entry smart charging & roaming management tier for CPOs and eMSPs). | Free driver roaming app access; CPO platform offers a free product demo and technical trial evaluation on request. |
+| **[Shell Recharge Solutions](https://www.shell.com/mobility/electric-vehicle-charging.html)** | EV charging management and infrastructure platform supporting public, workplace, fleet, and home charging ecosystems. | Starts at ~€4–€8/socket/month for commercial/business cloud management (or €0 monthly for home app users with standard roaming transaction fees). | Free forever home charging app (Shell Recharge App for personal charging points); free commercial fleet & site pilot consultation on request. |
+| **[ChargeHub](https://chargehub.com/)** | EV charging platform and driver network providing charging-station discovery, network connectivity, payments, and roaming management. | $4.29/month (ChargeHub Plus driver subscription waiving activation fees across 160k+ ports); B2B Passport Roaming starts at ~$50/month base integration fee. | Free forever basic tier (ChargeHub Map & community app with access to search and basic payment routing across 120,000+ North American locations). |
+| **[EVBox Everon](https://www.evbox.com/)** | EV charging management software and services for operating charging stations and networks (transitioning to partner management platforms). | Previously starting at ~€4.50–€6.00/connector/month (users transitioning to partner platforms like Tap Electric / Blink). | 30-day free trial on partner migration platforms (e.g., Tap Electric / Clenergy EV); basic home app was free for a single residential charger. |
+| **[Blink Charging](https://blinkcharging.com/)** | EV charging hardware and network-management platform supporting station operations, payments, monitoring, and charging services. | Starts at $18–$25/port/month (Host-Owned Blink Network subscription) or $0/month upfront on Blink-Owned hybrid revenue-share model. | Free forever driver account & mobile app; $0-cost host option via Blink-as-a-Service / revenue share plan; free host portal demo on request. |
+| **[Wallbox (myWallbox)](https://www.wallbox.com/)** | EV charging ecosystem providing connected chargers, charging management, energy management, and fleet solutions. | Basic tier: €0/month; Standard/Business management tier starts at ~€4.50–€6.50/charger/month (or 5% transaction fee on pay-per-charge). | Free forever Basic plan for unlimited private chargers (includes group management, scheduling, automated locking, and energy stats); 30-day free trial for Business tier. |
+| **[FLO](https://www.flo.com/)** | EV charging network and software platform supporting charging station management, monitoring, driver services, and fleet charging. | Starts at ~$24/port/month (commercial network management fee plus ~10% transaction processing fee). | Free forever FLO mobile app for personal charging stations & public roaming; free site host consultation and demo on request. |
+| **[SWTCH Energy](https://swtchenergy.com/)** | EV charging management platform focused on multi-unit residential, workplace, fleet, and commercial charging. | Starts at ~$15–$20/port/month (or bundled Charging-as-a-Service starting around $50/month including hardware, installation, and software). | Free driver app for tenant/workplace billing; commercial hosts get a free initial site survey & software platform demo on request. |
+| **[Electrify America](https://www.electrifyamerica.com/)** | Large-scale EV charging network with software supporting charger operations, driver access, payments, and network management. | $7.00/month (Electrify America Pass+ subscription giving ~25% discount per kWh); Commercial fleet/site host custom agreements. | Free forever Pass tier (standard pay-as-you-go charging access, station discovery, and charger status monitoring with no monthly subscription fee). |
+| **[Noodoe EV (Noodoe EV OS)](https://www.noodoe.com/)** | EV charging management platform for commercial charging networks, including station monitoring, billing, access management, and operations. | Starts at ~$15–$25/port/month for Noodoe EV OS cloud management (autonomous revenue generation, automated recovery, and load management). | Free driver web app (scan and pay without registration); 30-day sandbox pilot and free live demo for commercial operators. |
+| **[ev.energy](https://www.evenergy.io/)** | EV charging software and energy-management solutions supporting connected charging infrastructure and utility demand-response. | Free core smart charging app; ev.energy SOLAR premium tier starts at £5/month or £50/year (commercial utility platform via custom contracts). | Free forever core plan for smart home EV charging & utility reward programs; 30-day free trial for ev.energy SOLAR features. |
+| **[AmpUp](https://www.ampup.io/)** | EV charging network software supporting charging management, fleet operations, payments, and charger monitoring. | Starts at ~$15–$20/port/month (or $180–$240/port/year for entry Commercial/Fleet Management software). | Free driver mobile app; 30-day free software trial / demo sandbox for site hosts and fleet managers. |
+| **[Fimer](https://www.fimer.com/)** | Connected EV charging infrastructure and management capabilities for commercial and energy applications (OCPP-compliant hardware with CPMS integration). | Hardware-agnostic OCPP hardware; bundled companion software or partner CPMS starting at ~€5–€10/charger/month (e.g., via eCarUp / Fortum). | Free local configuration tools & basic companion app; free CPMS tier available via partner integrations (e.g., eCarUp free tier with transaction fees). |
+| **[Kempower ChargEye](https://kempower.com/)** | Cloud-based charging management and monitoring platform for Kempower DC charging infrastructure and fleet depots. | Starts at ~€30–€50/charging station/month (cloud monitoring and dynamic power distribution platform for Kempower fast chargers). | Free basic local commissioning interface; free ChargEye cloud live demo and guided technical onboarding on request. |
+| **[Alpitronic Hypercharger](https://www.alpitronic.it/)** | High-power EV charging infrastructure supported by software and operational tooling for charger management and monitoring. | Open OCPP hardware stack; companion diagnostic monitoring or partner CSMS starting at ~€8–€15/charger/month (or freemium via eCarUp with 10% session fee). | Free local service and diagnostics software (Alpitronic Service Tool); free partner cloud tier available via eCarUp for basic management. |
+| **[Siemens eMobility (Sifinity)](https://www.siemens.com/)** | EV charging infrastructure and digital-management ecosystem (Sifinity Fleet / DepotFinity) for commercial, fleet, workplace, and public charging. | Sifinity Fleet / DepotFinity Basic tier starting at ~€15–€30/connector/month (scales up for dynamic load management and day-ahead market optimization). | Free basic driver mobile app; free live demo and 30-day proof-of-concept pilot for fleet/enterprise customers on request. |
+| **[ABB E-mobility (ChargerSync / ABB Ability)](https://www.abb.com/)** | EV charging infrastructure and digital software ecosystem supporting charger management, monitoring, fleet charging, and energy integration. | ChargerSync is €0/month for Terra AC hardware; enterprise ABB Ability Management Console starts at ~€12–€25/port/month for commercial networks. | Free forever ChargerSync app & web portal for Terra AC wallboxes (manage up to 50 home/workplace chargers, scheduling, RFID, and energy statistics). |
 
 
 
