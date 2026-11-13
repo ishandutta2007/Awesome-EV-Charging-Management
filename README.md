@@ -138,6 +138,9 @@ The following curated open-source repositories provide complete CSMS platforms, 
 20. **[Node OCPP](https://github.com/chaoo/node-ocpp)** [![GitHub stars](https://img.shields.io/github/stars/chaoo/node-ocpp?style=social&color=white)](https://github.com/chaoo/node-ocpp/stargazers)  
     🟢 Lightweight NodeJS framework for building OCPP Central Systems (CSMS) and Charge Point clients using WebSockets and JSON schemas.
 
+21. **[EVtivity CSMS](https://github.com/EVtivity/evtivity-csms)** [![GitHub stars](https://img.shields.io/github/stars/EVtivity/evtivity-csms?style=social&color=white)](https://github.com/EVtivity/evtivity-csms/stargazers)  
+    ⚡ Self-hosted Charging Station Management System for OCPP 1.6 and 2.1 (2.0.1 compatible), with OCPI 2.2.1/2.3.0 roaming, ISO 15118 Plug &amp; Charge, load management, a driver portal and app, and a station simulator. Source-available under the Business Source License 1.1, free for a single operator's own network.
+
 ---
 
 ## 🛠️ Additional Strong Open-Source Building Blocks
